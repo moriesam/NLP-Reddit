@@ -1,5 +1,5 @@
 
-## Project 3: Web APIs & NLP
+## Reddit Web APIs & NLP
 
 
 ### Executive Summary 
